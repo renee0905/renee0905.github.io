@@ -5,7 +5,7 @@ title: A blog post about London Picture Archive
 
 
 1. When and why was this archive created? Try doing some background research on Wikipedia before your visit.
-2. This website offers more than 20,000 historical images. Reproductions of paintings, watercolors, drawings, and sculptures provide more than a glimpse into the history of London and London life from the 15th century to the present. The cultural history of London can be explored through online exhibitions and through the versatile search engine, making this site and its collections valuable classroom resources.
+This website offers more than 20,000 historical images. Reproductions of paintings, watercolors, drawings, and sculptures provide more than a glimpse into the history of London and London life from the 15th century to the present. The cultural history of London can be explored through online exhibitions and through the versatile search engine, making this site and its collections valuable classroom resources.
 
 2. Where did the objects come from? Under what circumstances were they acquired?
 Managed by London Metropolitan Archives (LMA), London Picture Archive provides free online access to over 250,000 images of London from the collections at LMA and Guildhall Art Gallery.
